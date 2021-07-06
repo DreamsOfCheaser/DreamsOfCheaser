@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 西泽 sama~
-- I'm a student in XJTU.
+- 🤢 I'm a student in XJTU.
 - 👀 I’m interested in programming and ultimate frisbee!
 - 🌱 I’m currently major in Software Programming !
 - 💞️ I’m looking to collaborate on ? I don't know!
