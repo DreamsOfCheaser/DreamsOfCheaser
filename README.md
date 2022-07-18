@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 西泽 sama~
 - 🤢 I'm a student in XJTU.
 - 👀 I’m interested in programming and ultimate frisbee!
-- 🌱 I’m currently major in Software Programming !
+- 🌱 I’m currently major in Software Engneering !
 - 💞️ I’m looking to collaborate on ? I don't know!
 - 📫 You can reach me through email: 1035347190@qq.com 
 
